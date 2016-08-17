@@ -1,0 +1,9 @@
+{
+  "name": "form-autofill",
+  "title": "Form Autofill",
+  "id": "jid1-XslLSqgtacKXJw",
+  "description": "A Firefox Add-on fills form automatically.",
+  "author": "Evan Tseng <evan@tseng.io>",
+  "license": "MIT",
+  "version": "0.0.1"
+}

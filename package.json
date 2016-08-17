@@ -1,0 +1,12 @@
+{
+  "name": "form-autofill",
+  "version": "0.0.1",
+  "description": "A Firefox Add-on fills form automatically.",
+  "author": "Evan Tseng <evan@tseng.io>",
+  "devDependencies": {
+    "gulp-clean": "~0.3.1",
+    "gulp-download": "~0.0.1",
+    "gulp-unzip": "~0.1.2",
+    "promise": "7.1.1"
+  }
+}
